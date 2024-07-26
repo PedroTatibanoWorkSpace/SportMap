@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "username",
+    "password": "password",
+    "database": "database",
+    "host": "host",
+    "dialect": "mysql",
+    "port": "port"
+  },
+  "test": {
+    "username": "username",
+    "password": "password",
+    "database": "database_test",
+    "host": "host",
+    "dialect": "mysql",
+    "port": "port"
+  },
+  "production": {
+    "username": "username",
+    "password": "password",
+    "database": "database_prod",
+    "host": "host",
+    "dialect": "mysql",
+    "port": "port"
+  }
+}
