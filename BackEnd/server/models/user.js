@@ -1,5 +1,3 @@
-// models/user.js
-
 const { Sequelize, DataTypes } = require('sequelize');
 const sequelize = require('../configDB');
 

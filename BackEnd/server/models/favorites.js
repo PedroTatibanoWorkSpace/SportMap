@@ -1,6 +1,3 @@
-// models/favorites.js
-
-
 const { Sequelize, DataTypes } = require('sequelize');
 const sequelize = require('../configDB');
 const User = require('./user');

@@ -21,7 +21,6 @@ module.exports = {
       },
       LocaisFavoritosIdCoord: {
         type: Sequelize.INTEGER,
-        // Remover a referência temporariamente
       },
       HistoricoUsuario: {
         type: Sequelize.STRING(1000)

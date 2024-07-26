@@ -23,7 +23,6 @@ module.exports = {
       },
       user_id: {
         type: Sequelize.INTEGER,
-        // Remover a referência temporariamente
       },
       createdAt: {
         allowNull: false,

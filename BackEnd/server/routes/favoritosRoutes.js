@@ -1,5 +1,3 @@
-//favoritosRoutes.js
-
 const Favorites = require("../models/favorites");
 
 module.exports = (app) => {
