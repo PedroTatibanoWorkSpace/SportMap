@@ -12,7 +12,7 @@
   <li><strong>Autenticação de Usuários:</strong> Registro, login e logout.</li>
   <li><strong>Gerenciamento de Marcadores:</strong> Adição, recuperação e modificação de coordenadas no mapa.</li>
   <li><strong>Favoritos:</strong> Adição e remoção de itens favoritos.</li>
-  <li><strong>Histórico de Rotas:</strong> Armazenamento e gerenciamento do histórico de rotas dos usuários.</li>
+  <li><strong>Histórico de Rotas:</strong> Armazenamento do histórico de rotas dos usuários.</li>
 </ul>
 
 <h3>Tecnologias Utilizadas</h3>
@@ -69,7 +69,6 @@
 <ul>
   <li><strong>GET /historico</strong> - Retorna o histórico de rotas de um usuário.</li>
   <li><strong>POST /addHistorico</strong> - Adiciona um novo item ao histórico do usuário.</li>
-  <li><strong>DELETE /removerHistorico</strong> - Remove um item do histórico do usuário.</li>
 </ul>
 
 <h1 style="margin-top: 20px;">FrontEnd</h1>
